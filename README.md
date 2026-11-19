@@ -1,4 +1,4 @@
-# Trial Shift – 30 jours
+# Trial Shift
 
 Jeu web mobile de reconversion : tire un métier à la roue, puis relève 4 semaines de défis (Tri, Dilemme, Timing) pour décrocher ton certificat.
 
